@@ -1,0 +1,14 @@
+C:\Users\nibba\source\repos\Quizza\Quizza\obj\Debug\Quizza.csprojAssemblyReference.cache
+C:\Users\nibba\source\repos\Quizza\Quizza\obj\Debug\Quizza.Quiz.resources
+C:\Users\nibba\source\repos\Quizza\Quizza\obj\Debug\Quizza.Properties.Resources.resources
+C:\Users\nibba\source\repos\Quizza\Quizza\obj\Debug\Quizza.csproj.GenerateResource.cache
+C:\Users\nibba\source\repos\Quizza\Quizza\obj\Debug\Quizza.csproj.CoreCompileInputs.cache
+C:\Users\nibba\source\repos\Quizza\Quizza\bin\Debug\Quizza.exe.config
+C:\Users\nibba\source\repos\Quizza\Quizza\bin\Debug\Quizza.exe
+C:\Users\nibba\source\repos\Quizza\Quizza\bin\Debug\Quizza.pdb
+C:\Users\nibba\source\repos\Quizza\Quizza\obj\Debug\Quizza.exe
+C:\Users\nibba\source\repos\Quizza\Quizza\obj\Debug\Quizza.pdb
+C:\Users\nibba\source\repos\Quizza\Quizza\bin\Debug\Database1.mdf
+C:\Users\nibba\source\repos\Quizza\Quizza\bin\Debug\Database1_log.ldf
+C:\Users\nibba\source\repos\Quizza\Quizza\bin\Debug\Frågor.mdf
+C:\Users\nibba\source\repos\Quizza\Quizza\bin\Debug\Frågor_log.ldf
